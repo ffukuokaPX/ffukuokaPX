@@ -7,7 +7,6 @@ WIDTH = 58  # largura (em caracteres) da coluna de texto
 INFO = [
     ("title", "felipe@fukuoka"),
     ("OS", "macOS, Linux"),
-    ("Uptime", "TODO"),
     ("Host", "PX Ativos Judiciais"),
     ("Kernel", "Software Engineer"),
     ("IDE", "VS Code, Claude Code"),
@@ -17,8 +16,6 @@ INFO = [
     ("Languages.Real", "Português, English"),
     None,
     ("title", "Contact"),
-    ("Email.Work", "TODO"),
-    ("LinkedIn", "TODO"),
     ("GitHub", "ffukuokaPX"),
     None,
     ("title", "GitHub Stats"),

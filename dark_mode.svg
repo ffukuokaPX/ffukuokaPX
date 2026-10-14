@@ -40,22 +40,19 @@
 <text x="470" y="30" fill="#c9d1d9">
 <tspan x="470" y="30"><tspan class="key">felipe@fukuoka</tspan> <tspan class="dots">-------------------------------------------</tspan></tspan>
 <tspan x="470" y="47"><tspan class="key">OS</tspan>: <tspan class="dots">........................................</tspan> <tspan class="value">macOS, Linux</tspan></tspan>
-<tspan x="470" y="64"><tspan class="key">Uptime</tspan>: <tspan class="dots">............................................</tspan> <tspan class="value">TODO</tspan></tspan>
-<tspan x="470" y="81"><tspan class="key">Host</tspan>: <tspan class="dots">...............................</tspan> <tspan class="value">PX Ativos Judiciais</tspan></tspan>
-<tspan x="470" y="98"><tspan class="key">Kernel</tspan>: <tspan class="dots">...............................</tspan> <tspan class="value">Software Engineer</tspan></tspan>
-<tspan x="470" y="115"><tspan class="key">IDE</tspan>: <tspan class="dots">...............................</tspan> <tspan class="value">VS Code, Claude Code</tspan></tspan>
-<tspan x="470" y="132"></tspan>
-<tspan x="470" y="149"><tspan class="key">Languages.Programming</tspan>: <tspan class="dots">......</tspan> <tspan class="value">TypeScript, C#, Python, SQL</tspan></tspan>
-<tspan x="470" y="166"><tspan class="key">Languages.Infra</tspan>: <tspan class="dots">.......</tspan> <tspan class="value">AWS, Terraform, Docker, Postgres</tspan></tspan>
-<tspan x="470" y="183"><tspan class="key">Languages.Real</tspan>: <tspan class="dots">......................</tspan> <tspan class="value">Português, English</tspan></tspan>
-<tspan x="470" y="200"></tspan>
-<tspan x="470" y="217"><tspan class="key">Contact</tspan> <tspan class="dots">--------------------------------------------------</tspan></tspan>
-<tspan x="470" y="234"><tspan class="key">Email.Work</tspan>: <tspan class="dots">........................................</tspan> <tspan class="value">TODO</tspan></tspan>
-<tspan x="470" y="251"><tspan class="key">LinkedIn</tspan>: <tspan class="dots">..........................................</tspan> <tspan class="value">TODO</tspan></tspan>
-<tspan x="470" y="268"><tspan class="key">GitHub</tspan>: <tspan class="dots">......................................</tspan> <tspan class="value">ffukuokaPX</tspan></tspan>
-<tspan x="470" y="285"></tspan>
-<tspan x="470" y="302"><tspan class="key">GitHub Stats</tspan> <tspan class="dots">---------------------------------------------</tspan></tspan>
-<tspan x="470" y="319"><tspan class="key">Repos</tspan>: <tspan class="dots">.............................</tspan> <tspan class="value">12 {Contributed: 11}</tspan></tspan>
-<tspan x="470" y="336"><tspan class="key">Contributions (12m)</tspan>: <tspan class="dots">..............................</tspan> <tspan class="value">2,675</tspan></tspan>
+<tspan x="470" y="64"><tspan class="key">Host</tspan>: <tspan class="dots">...............................</tspan> <tspan class="value">PX Ativos Judiciais</tspan></tspan>
+<tspan x="470" y="81"><tspan class="key">Kernel</tspan>: <tspan class="dots">...............................</tspan> <tspan class="value">Software Engineer</tspan></tspan>
+<tspan x="470" y="98"><tspan class="key">IDE</tspan>: <tspan class="dots">...............................</tspan> <tspan class="value">VS Code, Claude Code</tspan></tspan>
+<tspan x="470" y="115"></tspan>
+<tspan x="470" y="132"><tspan class="key">Languages.Programming</tspan>: <tspan class="dots">......</tspan> <tspan class="value">TypeScript, C#, Python, SQL</tspan></tspan>
+<tspan x="470" y="149"><tspan class="key">Languages.Infra</tspan>: <tspan class="dots">.......</tspan> <tspan class="value">AWS, Terraform, Docker, Postgres</tspan></tspan>
+<tspan x="470" y="166"><tspan class="key">Languages.Real</tspan>: <tspan class="dots">......................</tspan> <tspan class="value">Português, English</tspan></tspan>
+<tspan x="470" y="183"></tspan>
+<tspan x="470" y="200"><tspan class="key">Contact</tspan> <tspan class="dots">--------------------------------------------------</tspan></tspan>
+<tspan x="470" y="217"><tspan class="key">GitHub</tspan>: <tspan class="dots">......................................</tspan> <tspan class="value">ffukuokaPX</tspan></tspan>
+<tspan x="470" y="234"></tspan>
+<tspan x="470" y="251"><tspan class="key">GitHub Stats</tspan> <tspan class="dots">---------------------------------------------</tspan></tspan>
+<tspan x="470" y="268"><tspan class="key">Repos</tspan>: <tspan class="dots">.............................</tspan> <tspan class="value">12 {Contributed: 11}</tspan></tspan>
+<tspan x="470" y="285"><tspan class="key">Contributions (12m)</tspan>: <tspan class="dots">..............................</tspan> <tspan class="value">2,675</tspan></tspan>
 </text>
 </svg>
