@@ -1,6 +1,6 @@
-@ffukuokaPX PX Ativos Judiciais Account
-
-<!---
-ffukuokaPX/ffukuokaPX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<a href="https://github.com/ffukuokaPX">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg">
+    <img alt="Felipe Fukuoka" src="light_mode.svg">
+  </picture>
+</a>
